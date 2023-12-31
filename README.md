@@ -28,6 +28,6 @@ Describe the structure of your project briefly. Highlight important directories 
 |   |-- app-routing.module.ts  # Angular routing configuration
 |-- /assets
 |   |-- ...             # Any static assets (images, fonts, etc.)
-
+```
 ![image](https://github.com/Sumanth007/AngularProject/assets/61139248/ae80be1c-46c2-479c-9523-4fb24b69d9d1)
 
